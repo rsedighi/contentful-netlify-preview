@@ -1,6 +1,6 @@
 # Netlify Preview Contentful App
 
-This Contentful app lets you preview your draft content on your static site before your publish to production.
+Thiss Contentful app lets you preview your draft content on your static site before your publish to production.
 
 This app is for you if:
 
